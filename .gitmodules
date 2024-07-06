@@ -1,0 +1,18 @@
+[submodule "Flutter"]
+	path = Flutter
+	url = git@github.com:titaniper/Flutter.git
+[submodule "Fastlane"]
+	path = Fastlane
+	url = git@github.com:titaniper/Fastlane.git
+[submodule "React"]
+	path = React
+	url = git@github.com:titaniper/React.git
+[submodule "Android"]
+	path = Android
+	url = git@github.com:titaniper/Android.git
+[submodule "iOS"]
+	path = iOS
+	url = git@github.com:titaniper/iOS.git
+[submodule "React-Native"]
+	path = React-Native
+	url = git@github.com:titaniper/React-Native.git
