@@ -1,0 +1,18 @@
+[submodule "nextjs"]
+	path = nextjs
+	url = git@github.com:titaniper/nextjs.git
+[submodule "react"]
+	path = react
+	url = git@github.com:titaniper/react.git
+[submodule "flutter"]
+	path = flutter
+	url = git@github.com:titaniper/flutter.git
+[submodule "react-native"]
+	path = react-native
+	url = git@github.com:titaniper/react-native.git
+[submodule "android"]
+	path = android
+	url = git@github.com:titaniper/android.git
+[submodule "ios"]
+	path = ios
+	url = git@github.com:titaniper/ios.git
